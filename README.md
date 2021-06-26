@@ -1,2 +1,2 @@
-# fintechstartup
+# fintech-startup
 Personal Blog
